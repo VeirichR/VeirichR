@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeirichR;
 - 👀 I’m interested in learning more about the devs world;
-- 🌱 I’m currently learning Python;
+- 🌱 I’m currently learning NodeJS;
 - 📫 How to reach me <renato.veirich@gmail.com>;
 
 <!---
