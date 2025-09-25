@@ -10,15 +10,6 @@ Aqui você encontra alguns dos meus projetos e contribuições. 🚀
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatoveirich&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoveirich&layout=compact&theme=radical)
 
----
-
-## 🔥 Contribuições Recentes
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renatoveirich&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatoveirich&theme=github-compact)
-
----
-
 ## 🛠️ Tecnologias que mais uso
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
