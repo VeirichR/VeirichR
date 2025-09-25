@@ -7,8 +7,8 @@ Aqui você encontra alguns dos meus projetos e contribuições. 🚀
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatoveirich&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoveirich&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renato_Veirich&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renato_Veirich&layout=compact&theme=radical)
 
 ## 🛠️ Tecnologias que mais uso
 
