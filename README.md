@@ -81,6 +81,6 @@ Heavy on **AWS** and a **self-hosted** observability stack built from scratch.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato.veirich@gmail.com)
 
 </div>
