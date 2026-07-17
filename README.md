@@ -2,7 +2,7 @@
 
 <!-- ============ ANIMATED HEADLINE ============ -->
 <a href="https://github.com/VeirichR">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=680&lines=Platform+%26+TechOps+Engineer;Cloud+%E2%80%A2+Observability+%E2%80%A2+Automation;I+build+the+platform+and+understand+the+business" alt="headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=680&lines=Platform+%26+TechOps+Engineer;Backend+%E2%80%A2+Cloud+%E2%80%A2+Observability;I+build+the+platform+and+understand+the+business" alt="headline" />
 </a>
 
 </div>
@@ -11,12 +11,9 @@
 
 ### 👋 About
 
-Platform / **TechOps** engineer working end-to-end across **Cloud, Observability, Backend and Data**.
-From infrastructure design to the code running on top of it.
-Heavy on **AWS**, automation in **Python**, and a **self-hosted** observability stack built from scratch.
-
-> Currently: **Terraform Associate (004)** • Platform Engineering • Reliability & Cost
-
+Platform / **TechOps** engineer with a strong **backend** background, working end-to-end across **Backend, Cloud, Observability and Data**.
+Most of my time goes into **Python** — APIs, async processing, integrations and the business rules behind them — from infrastructure design down to the code running on top of it.
+Heavy on **AWS** and a **self-hosted** observability stack built from scratch.
 ---
 
 ### 🧰 Stack
@@ -27,6 +24,13 @@ Heavy on **AWS**, automation in **Python**, and a **self-hosted** observability 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Async / Event-Driven](https://img.shields.io/badge/Async_%2F_Event--Driven-232F3E?style=for-the-badge&logo=python&logoColor=white)
 
 **Cloud & Infrastructure (AWS)**
 
@@ -64,20 +68,6 @@ Heavy on **AWS**, automation in **Python**, and a **self-hosted** observability 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeirichR&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeirichR&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=2EA043&text_color=C9D1D9&bg_color=0D1117" alt="top langs" />
-
-<img src="https://streak-stats.demolab.com?user=VeirichR&hide_border=true&background=0D1117&stroke=2EA043&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeirichR&hide_border=true&bg_color=0D1117&color=2EA043&line=2EA043&point=FFFFFF&area=true&area_color=2EA043" alt="activity graph" />
-
-</div>
-
----
-
-<div align="center">
-
-<!-- ============ SNAKE (requires the workflow, see instructions) ============ -->
-<img src="https://raw.githubusercontent.com/VeirichR/VeirichR/output/snake.svg" alt="snake" />
 
 </div>
