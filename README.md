@@ -71,7 +71,7 @@ Heavy on **AWS** and a **self-hosted** observability stack built from scratch.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VeirichR&hide_border=true&bg_color=0D1117&color=2EA043&line=2EA043&point=FFFFFF&area=true&area_color=2EA043" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VeirichR&custom_title=GitHub%20Contributions%20-%20Last%2031%20Days&hide_border=true&bg_color=0D1117&color=2EA043&line=2EA043&point=FFFFFF&area=true&area_color=2EA043" alt="activity graph" />
 
 </div>
 
@@ -81,6 +81,6 @@ Heavy on **AWS** and a **self-hosted** observability stack built from scratch.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato.veirich@gmail.com)
+[![Email](https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 </div>
