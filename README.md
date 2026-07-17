@@ -14,6 +14,9 @@
 Platform / **TechOps** engineer with a strong **backend** background, working end-to-end across **Backend, Cloud, Observability and Data**.
 Most of my time goes into **Python** — APIs, async processing, integrations and the business rules behind them — from infrastructure design down to the code running on top of it.
 Heavy on **AWS** and a **self-hosted** observability stack built from scratch.
+
+> Currently: **Terraform Associate (004)** • Platform Engineering • Reliability & Cost
+
 ---
 
 ### 🧰 Stack
@@ -69,5 +72,15 @@ Heavy on **AWS** and a **self-hosted** observability stack built from scratch.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeirichR&hide_border=true&bg_color=0D1117&color=2EA043&line=2EA043&point=FFFFFF&area=true&area_color=2EA043" alt="activity graph" />
+
+</div>
+
+---
+
+### 📫 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato.veirich@gmail.com)
 
 </div>
